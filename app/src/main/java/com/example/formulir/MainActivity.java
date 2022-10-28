@@ -37,7 +37,8 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     public void onNothingSelected(AdapterView<?> adapterView) {
 
     }
-
+    
+    /* Fungsi Submit untuk menampilkan Nama, Tempat, dan Tanggal Lahir dalam Bentuk String*/
     public void submit_data(View view){
         Intent i1 = new Intent(this, HasilActivity.class);
         i1.putExtra("nama", etnm.getText().toString());
