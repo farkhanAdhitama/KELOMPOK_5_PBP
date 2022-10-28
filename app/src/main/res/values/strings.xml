@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Formulir</string>
+    <string name="form_data_diri">Form Data Diri</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_tempat_lahir">Masukkan Tempat Lahir</string>
+    <string name="masukkan_tanggal_lahir">Masukkan Tanggal Lahir</string>
+    <string name="submit">Submit</string>
+    <string name="hasil">Hasil</string>
+</resources>
